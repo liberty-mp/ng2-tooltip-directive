@@ -1,6 +1,6 @@
 {
   "name": "@libertymp/tooltip-directive",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Tooltip for Angular",
   "repository": {
     "type": "git",
@@ -24,9 +24,9 @@
     "url": "https://github.com/liberty-mp/ng2-tooltip-directive/issues"
   },
   "peerDependencies": {
-    "@angular/common": ">=14.0.3 <15.0.0",
-    "@angular/core": ">=14.0.3 <15.0.0",
-    "@angular/forms": ">=14.0.3 <15.0.0"
+    "@angular/common": ">=15.0.0 <16.0.0",
+    "@angular/core": ">=15.0.0 <16.0.0",
+    "@angular/forms": ">=15.0.0 <16.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.1"
